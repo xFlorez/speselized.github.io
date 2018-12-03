@@ -30,7 +30,6 @@ Come as You Are - Nirvana
 > 1 1 2 3\
 6 3 6 3 3 2 1 5 1 1 6 1 1 2 3
 
-Get creative and [submit your own](https://github.com/Externalizable/bongo.cat/issues/new)!
 
 ## Featured in
 - [Tweet by StrayRogue](https://twitter.com/StrayRogue/status/1041115341290561536), the creator of the cat drawing (15th September 2018)
@@ -47,10 +46,8 @@ StrayRogue gave written permission to @Externalizable on the 15th September 2018
 
 ## Authors
 - [StrayRogue](https://twitter.com/StrayRogue) - Cat drawing
-- [DitzyFlama](https://twitter.com/DitzyFlama) - Original idea
-- [Externalizable](https://github.com/Externalizable) - Website & domain
+- [Externalizable](https://github.com/speselized) - Website & domain
 
-See also the list of [contributors](https://github.com/Externalizable/bongo.cat/contributors) who participated in this project.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Externalizable/bongo.cat/blob/master/LICENSE) file for details
